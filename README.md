@@ -8,3 +8,5 @@ VM1 is a unique external pattern/AOB/signature scanner for Windows by 1hAck. It 
 - Supports Text and Code Format
 - Generate C++ header files
 - JSON based Configuration System
+- Filter Scan Results
+- Get Scan Result Offset/Module/Process
