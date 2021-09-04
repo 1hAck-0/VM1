@@ -19,14 +19,18 @@ Coming soon.
 ## Media
 VM1 Overview:
 
-![alt text](https://github.com/1hAck-0/VM1---Pattern-Scanner/blob/main/VM1%20Patter%20Scan.png?raw=true)
+![alt text](https://github.com/1hAck-0/VM1---Pattern-Scanner/blob/main/Media/VM1%20Overview.png.png?raw=true)
 
 VM1 Pattern Scan Example:
 
-![alt text](https://github.com/1hAck-0/VM1---Pattern-Scanner/blob/main/VM1%20Pattern%20Scan%20Example.png?raw=true)
+![alt text](https://github.com/1hAck-0/VM1---Pattern-Scanner/blob/main/Media/VM1%20Pattern%20Scan%20Example.png.png?raw=true)
 
 VM1 Multi Scan Example:
 
-![alt text](https://github.com/1hAck-0/VM1---Pattern-Scanner/blob/main/VM1%20Multi%20Scan%20Example.png?raw=true)
+![alt text](https://github.com/1hAck-0/VM1---Pattern-Scanner/blob/main/Media/VM1%20Multi%20Scan%20Example.png.png?raw=true)
 
 Pressing the Plus Button will add a scan and pressing the Minus Button will pop-back a scan.
+
+Others:
+
+![alt text](https://github.com/1hAck-0/VM1---Pattern-Scanner/blob/main/Media/VM1%20Edit.png?raw=true)
