@@ -2,8 +2,8 @@
 VM1 is a unique external pattern/AOB/signature scanner for Windows by 1hAck. It works for both 32-bit and 64-bit processes. This application was originally made for Game Hacking but you can use it for whatever you like.
 
 ## Main Features
-- Pattern Scan
-- Multi-Pattern-Scan (up to 150 at a time)
+- Fast Pattern Scanner
+- Multi Pattern Scan (up to 150 at a time)
 - Choose Scan Region: a Process, a Module or the whole Virtual Memory
 - Supports Text and Code Format
 - Generate C++ header files
