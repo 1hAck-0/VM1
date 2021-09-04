@@ -1,5 +1,5 @@
 # VM1 - External Pattern Scanner
-VM1 is a unique external pattern/AOB/signature scanner for Windows. It works for both 32-bit and 64-bit processes.
+VM1 is a unique external pattern/AOB/signature scanner for Windows by 1hAck. It works for both 32-bit and 64-bit processes.
 
 ## Main Features
 - Pattern Scan
