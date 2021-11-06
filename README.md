@@ -13,9 +13,6 @@ VM1 is a unique external pattern/AOB/signature scanner for Windows by 1hAck. It 
 
 At first VM1 might seem like a regular pattern scanner, just like the one in Cheat Engine, right? No. Where VM1 really shines is its C++ header file generator feature and config feature. You can save a scan configuration and use it for later after the game gets updated/patched to get offsets and others in seconds.
 
-## Tutorials
-Coming soon.
-
 ## Media
 VM1 Overview:
 
